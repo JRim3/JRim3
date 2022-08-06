@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JRim3
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning C
 
 <!---
 JRim3/JRim3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
